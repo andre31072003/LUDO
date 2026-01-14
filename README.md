@@ -1,4 +1,4 @@
-# 🎲 Ludo in JavaScript
+# Ludo in JavaScript
 
 This project is an implementation of the **Ludo** board game, developed in **JavaScript**, using **HTML, CSS, and images** to represent the board, dice, and pieces.
 
