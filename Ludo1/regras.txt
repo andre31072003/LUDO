@@ -1,0 +1,20 @@
+COMO JOGAR AO LUDO
+Ao começar a partida, cada jogador atira um dado, aquele que conseguir o valor mais alto, 
+começará a partida. Cada jogador começa com as suas 4 peças em casa. 
+Tire um seis para colocar a sua primeira peça no tabuleiro.  
+Caso o primeiro jogador não consiga um seis na primeira rodada, ele deve passar 
+os dados para o jogador à esquerda. 
+Lance novamente para descobrir quantas casas você deve andar, 
+mova a peça pelo número de casas indicado pelo dado.
+Coloque mais uma peça no tabuleiro se tirar outro seis. 
+Depois que um jogador tira um seis 
+e coloca uma peça no tabuleiro, ele pode lançar o dado outra vez. 
+Caso tire mais um seis, ele pode colocar mais uma peça no tabuleiro. 
+Em seguida, ele deve jogar outra vez para descobrir quantas casas deve andar com a peça.
+Tire o número exato para chegar ao centro do tabuleiro. Você não pode avançar por 
+cima das suas peças no caminho final. 
+Quando uma casa esta ocupada e uma peça cai nessa casa, a peça que estava na casa
+voltara para a sua base.
+Caso haja uma casa vazia no caminho, você deve mover a peça mais próxima à casa em questão, 
+andando o número de espaços tirados no dado.
+Leve as suas quatro peças para o centro do tabuleiro para vencer. 
